@@ -13,7 +13,7 @@ Foram usadas essas tecnologias:
 - [React Native](https://reactnative.dev/)
 - [Yarn](https://yarnpkg.com/)
 <br/>_
-- [lottie](https://github.com/lottie-react-native/lottie-react-native)
+- [lottie-react-native](https://github.com/lottie-react-native/lottie-react-native)
 
 ## 📱 Executando 
 
