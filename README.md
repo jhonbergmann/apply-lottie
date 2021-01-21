@@ -7,6 +7,10 @@
   <img src="screenshot/gif.gif" alt="Demo" >
 </p>
 
+## 📅 Sobre
+
+Aplicando o Lottie, Lottie é uma biblioteca móvel para Android e iOS que analisa animações do Adobe After Effects exportadas como JSON com bodymovin e as renderiza nativamente no celular! Pela primeira vez, os designers podem criar e enviar belas animações sem um engenheiro recriá-las meticulosamente à mão.
+
 ## 🌐 Tecnologias Usadas
 Foram usadas essas tecnologias:
 
