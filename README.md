@@ -4,48 +4,39 @@
 </h1>
 
 <p align="center">
-  <img src="screenshot/gif.gif" alt="Demo" >
+  <img src="readme-content/mobile.gif" alt="Demo" >
+  <img src="readme-content/web.gif" alt="Demo" >
 </p>
 
 ## 📅 Sobre
 
-Aplicando o Lottie, Lottie é uma biblioteca móvel para Android e iOS que analisa animações do Adobe After Effects exportadas como JSON com bodymovin e as renderiza nativamente no celular! Pela primeira vez, os designers podem criar e enviar belas animações sem um engenheiro recriá-las meticulosamente à mão.
+Mobile - Aplicando o Lottie, lottie-react-native é uma biblioteca móvel para Android e iOS que analisa animações do Adobe After Effects exportadas como JSON com bodymovin e as renderiza nativamente no celular! Pela primeira vez, os designers podem criar e enviar belas animações sem um engenheiro recriá-las meticulosamente à mão. E react-lottie para ReactJS.
 
 ## 🌐 Tecnologias Usadas
 Foram usadas essas tecnologias:
 
 - [React Native](https://reactnative.dev/)
+- [React](https://pt-br.reactjs.org/)
 - [Yarn](https://yarnpkg.com/)
 <br/>_
 - [lottie-react-native](https://github.com/lottie-react-native/lottie-react-native)
+- [react-lottie](https://www.npmjs.com/package/react-lottie)
 
-## 📱 Executando 
+## ***</>*** Como usar o código?
+1. Instale o **Yarn** em seu computador
+1. Instale o **NodeJs** na versão >= 12.0
+1. Clone este repositório `git clone https://github.com/JhonatanBergmann/apply-lottie`
 
-Para executar o projeto é necessário que você tenha o ambiente React Native configurado, você pode seguir esse [GUIA](https://reactnative.dev/docs/environment-setup) para tal.
+### 🌐 Web
+1. Acesse o diretório e dê o comando `yarn install`
+1. Acesse a pasta *web* e dê o comando `yarn start`
+1. Acesse em seu navegador a seguinte url `http://localhost:3000`
 
-Depois de configurar o ambiente, basta fazer o clone do projeto:
-
-```sh
-git clone https://github.com/JhonatanBergmann/apply-lottie.git
-```
-
-Entre na pasta do projeto e execute o comando para instalar as dependências do projeto:
-
-```sh
-yarn install
-```
-ou
-```sh
-npm install
-```
-
-Em seguida execute o comando referente a plataforma ao qual deseja executar:
-
-Android:
-
-```sh
-react-native run-android
-```
+### 📱 Mobile
+1. Acesse a pasta *mobile* e dê o comando `yarn install`
+1. Acesse seu emulador, no caso do android dê o comando `emulator -list-avds` para listar
+1. Axecute o comando `emulator -avds (nome do seu emulador que foi listado)`
+1. Acesse novamente a pasta *mobile* e dê o comando `npx react-native run-android`
 
 ## 📝 Licença
 
