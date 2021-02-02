@@ -37,7 +37,7 @@ Foram usadas essas tecnologias:
 ### 📱 Mobile
 1. Acesse a pasta *mobile* e dê o comando `yarn install`
 1. Acesse seu emulador, no caso do android dê o comando `emulator -list-avds` para listar
-1. Axecute o comando `emulator -avds (nome do seu emulador que foi listado)`
+1. Axecute o comando `emulator -avd  + (nome do seu emulador que foi listado)`
 1. Acesse novamente a pasta *mobile* e dê o comando `npx react-native run-android`
 
 ## 📝 Licença
