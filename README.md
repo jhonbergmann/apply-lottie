@@ -4,9 +4,7 @@
 </h1>
 
 <p align="center">
-  <h3>Mobile</h3>
   <img src="readme-content/mobile.gif" alt="Demo" >
-  <h3>Web</h3>
   <img src="readme-content/web.gif" alt="Demo" >
 </p>
 
