@@ -1,7 +1,6 @@
 import React from 'react'
 import Lottie from 'react-lottie'
 
-
 import GirlCycling from '../src/LottieView/GirlCycling.json'
 import './App.css'
 
