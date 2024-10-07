@@ -26,7 +26,7 @@ The following technologies were used:
 
 1. Install **Yarn** on your computer.
 1. Install **NodeJs** version >= 12.0.
-1. Clone this repository `git clone https://github.com/JhonatanBergmann/apply-lottie`.
+1. Clone this repository `git clone https://github.com/jhon/apply-lottie`.
 
 ### 🌐 Web
 
